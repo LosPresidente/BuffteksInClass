@@ -1,0 +1,10 @@
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\bin\Debug\netcoreapp2.0\Buffteks.deps.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\bin\Debug\netcoreapp2.0\Buffteks.runtimeconfig.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\bin\Debug\netcoreapp2.0\Buffteks.runtimeconfig.dev.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\bin\Debug\netcoreapp2.0\Buffteks.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\bin\Debug\netcoreapp2.0\Buffteks.pdb
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\obj\Debug\netcoreapp2.0\Buffteks.csproj.CoreCompileInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\obj\Debug\netcoreapp2.0\Buffteks.AssemblyInfoInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\obj\Debug\netcoreapp2.0\Buffteks.AssemblyInfo.cs
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\obj\Debug\netcoreapp2.0\Buffteks.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\Buffteks\obj\Debug\netcoreapp2.0\Buffteks.pdb
